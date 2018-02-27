@@ -1,4 +1,2 @@
 # hello-world
-
-sdfsdfsdf
-fasfafd
+hello world
